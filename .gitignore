@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# IDE / temp files
+.vscode/
+/*.png
+/Formula_Pit_Stop_preview_1162201.mp4
+
